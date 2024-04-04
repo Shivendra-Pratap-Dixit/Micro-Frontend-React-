@@ -70,11 +70,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 ### Authors:
 
-- [Your Name] - [Your Email/Contact]
+- Shivendra
 
 ### Acknowledgments:
 
-- Special thanks to [any contributors or resources you used].
+- Special thanks to ADVoco.
 - Inspiration and concepts adapted from various micro frontend architecture patterns.
 
 ---
